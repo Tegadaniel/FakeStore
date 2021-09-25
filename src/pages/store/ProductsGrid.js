@@ -45,7 +45,7 @@ const ProductsGrid = () => {
           </select>
         </div>
         <div className="col-sm-4"></div>
-        <div className="col-sm-4">
+        <div className="col-sm-4  pb-5">
           <div className="form-group">
             <input
               type="text"
