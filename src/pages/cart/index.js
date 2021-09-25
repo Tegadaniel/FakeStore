@@ -31,7 +31,7 @@ const Cart = () => {
                         { checkout && 
                             <div className="p-3 text-center text-success">
                                 <p>Checkout successfull</p>
-                                <Link to="/" className="btn btn-outline-success btn-sm">BUY MORE</Link>
+                                <Link to="https://paystack.com/pay/fakestore" className="btn btn-outline-success btn-sm">BUY MORE</Link>
                             </div>
                         }
                     </div>
